@@ -22,10 +22,10 @@ The mathmatical approach will be a regression, most likely linear. The model wil
 <img src="http://latex.codecogs.com/svg.latex?$$ Y = $$"  border="0"/> Sorghum plantings in acres. SOURCE. USDA NASS </br>
 <img src="http://latex.codecogs.com/svg.latex?$$ B_{1} = $$"  border="0"/> Deviation of basis price from 3 year average. SOURCE. KSU Ag Manager </br> 
 <img src="http://latex.codecogs.com/svg.latex?$$ B_{2} = $$"  border="0"/> Deviation of basis price form 3 year average of substitute. SOURCE. KSU Ag Manager </br>
-<img src="http://latex.codecogs.com/svg.latex?$$ B_{3} = $$"  border="0"/>Ground water use SOURCE. KDA </br>
+<img src="http://latex.codecogs.com/svg.latex?$$ B_{3} = $$"  border="0"/> Ground water use SOURCE. KDA </br>
 <img src="http://latex.codecogs.com/svg.latex?$$ B_{4} = $$"  border="0"/> Soil moisture profile or pre-season rail fall. SOURCE.KSU Mesonet </br>
 <img src="http://latex.codecogs.com/svg.latex?$$ B_{5} = $$"  border="0"/> Use of Y exclusion for crop insurance. SOURCE. RMA, student will need to confirm accept to data <br/>
-<img src="http://latex.codecogs.com/svg.latex?$$ E = $$"  border="0"/>Random error term </br>
+<img src="http://latex.codecogs.com/svg.latex?$$ E = $$"  border="0"/> Random error term </br>
 Note. The effect of variables will be evaluated for use as a predictor with subsequent fine tuning in the selection of independent variables. 
 
 **References** <br/>
