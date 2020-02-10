@@ -16,6 +16,7 @@ Knowledge of the driving determinates guiding farmer plantings presents insights
 **Figure 1. Crop Diversity**
 <img src='DiversityIndex_edited.jpg', width=600, height=90
 align="left">
+![alt text](http://url/to/img.png)
 
 ## Methods ##
 The mathmatical approach will be a regression, most likely linear. The model will be fitted by conducting a step-wise regression, and utilization of f-tests to weigh the statistical effect of adding a particular variable. </br>
