@@ -1,4 +1,4 @@
-# Crop_planting_decisions
+# Concept for Semester Project 
 An anaylsis of the variables that influence which crop farmers will plant in the Kansas cropping system. <br/>
 **Name**: Sarah Sexton-Bowser <br/>
 **Semester**: Spring 2020 <br/>
@@ -18,7 +18,7 @@ Knowledge of the driving determinates guiding farmer plantings presents insights
 align="left">
 
 ## Methods ##
-The mathmatical approach will be a regression, most likely linear. </br>
+The mathmatical approach will be a regression, most likely linear. The model will be fitted by conducting a step-wise regression, and utilization of f-tests to weigh the statistical effect of adding a particular variable. </br>
 Y = Sorghum plantings in acres. SOURCE. USDA NASS </br>
 B1 = Deviation of basis price from 3 year average. SOURCE. KSU Ag Manager </br> 
 B2 = Deviation of basis price form 3 year average of substitute. SOURCE. KSU Ag Manager </br>
