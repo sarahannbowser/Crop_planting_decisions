@@ -1,5 +1,5 @@
 # Crop_planting_decisions
-An anaylsis of the variables that influence which crop farmers will plant in the Kansas cropping system. 
+An anaylsis of the variables that influence which crop farmers will plant in the Kansas cropping system. <br/>
 **Name**: Sarah Sexton-Bowser <br/>
 **Semester**: Spring 2020 <br/>
 **Project area**: Analysis of cropping trends in Kansas landscapes
