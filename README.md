@@ -14,9 +14,9 @@ The outcomes will be two-fold. The first product will be the derived analysis of
 Knowledge of the driving determinates guiding farmer plantings presents insights to underpin strategies for investing in the advancement of mid-small range crops. Illustrated in Figure 1. is the rapid decline of diversity in cropping mix for Kansas cropping systems. This trend begs the question of what can be done to incent an increase in the diversity of the types of crops grown by farmers in Kansas. 
 
 **Figure 1. Crop Diversity**
-<img src='DiversityIndex_edited.jpg', width=600, height=90
+<img src='diversity_index.jpg', width=600, height=90
 align="left">
-![alt text](http://url/to/img.png)
+![alt text](diversity_index.jpg)
 
 ## Methods ##
 The mathmatical approach will be a regression, most likely linear. The model will be fitted by conducting a step-wise regression, and utilization of f-tests to weigh the statistical effect of adding a particular variable. </br>
