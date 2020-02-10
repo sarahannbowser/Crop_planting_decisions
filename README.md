@@ -31,6 +31,5 @@ Note. The effect of variables will be evaluated for use as a predictor with subs
 **References** <br/>
 Caruso, T., Pigino, G., Bernini, F., Bargagli, R., & Migliorini, M. (2006). The Berger–Parker index as an effective tool for monitoring the biodiversity of disturbed soils: a case study on Mediterranean oribatid (Acari: Oribatida) assemblages. In Biodiversity and conservation in Europe (pp. 35-43). Springer, Dordrecht. <br/>
 Haase, R. F. (2011). Quantitative Applications in the Social Sciences: Multivariate general linear models. Thousand Oaks, CA: SAGE Publications, Inc. doi: 10.4135/9781452269924 <br/>
-Mediterranean oribatid (Acari: Oribatida) assemblages. In Biodiversity and conservation in Europe (pp. 35-43). Springer, Dordrecht. <br/>
 Masisi, L., Nelwamondo, V., & Marwala, T. (2008, November). The use of entropy to measure structural diversity. In 2008 IEEE International Conference on Computational Cybernetics (pp. 41-45). IEEE. <br/>
 USDA NASS. (2019). NASS Quick Stat Database.
