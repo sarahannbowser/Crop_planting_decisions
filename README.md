@@ -17,7 +17,7 @@ Knowledge of the driving determinates guiding farmer plantings presents insights
 https://github.com/sarahannbowser/Crop_planting_decisions/blob/master/DiversityIndex.PNG
 <img src='Diversity.Index.PNG', width=600, height=90
 align="left">
-<img src="http://latex.codecogs.com/svg.latex?$$y = e^{-x}$$"  border="0"/>
+
 ## Methods ##
 The mathmatical approach will be a regression, most likely linear. The model will be fitted by conducting a step-wise regression, and utilization of f-tests to weigh the statistical effect of adding a particular variable. </br>
 <img src="http://latex.codecogs.com/svg.latex?$$ Y = B_{0} + B_{1}X_{1} + B_{2}X_{2} + - - + B_{N}X_{N} + E$$"  border="0"/> </br>
