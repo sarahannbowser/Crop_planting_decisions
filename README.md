@@ -1,5 +1,5 @@
-# Concept for Semester Project 
-An anaylsis of the variables that influence which crop farmers will plant in the Kansas cropping system. <br/>
+# Semester Project 
+To study the yield response of sorghum and corn to precipitation and drought in the NW and SW Kansas crop districts.  <br/>
 **Name**: Sarah Sexton-Bowser <br/>
 **Semester**: Spring 2020 <br/>
 **Project area**: Analysis of cropping trends in Kansas landscapes
