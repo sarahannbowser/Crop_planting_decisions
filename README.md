@@ -12,6 +12,7 @@ Precipitation on the Great Southern Plains is highly variable from year to year.
 ![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Frontier_Efficiency.png)
 
 ## Methods ##
+A Frontier Efficiency analysis with the Douglas-Cobb function is used to assess the efficiency of yield productivity given a quantity of precipitation. This analysis is done for both dryland corn and sorghum in the Northwest and Southwest crop reporting districts for years of deficit water supply during the summer season. A quantile approach is undertook by dividing the variants of precipitation into six quantile groups. 
 
 **References** <br/>
 Cobb, C.W. and Douglas, P.H., 1928. A theory of production. The American Economic Review, 18(1), pp.139-165. <br/>
@@ -19,4 +20,5 @@ Douglas, P. H. 1967. Comments on the Cobb-Douglas production function. In The th
 Hayami, Y. 1970. On the use of the Cobb-Douglas production function on the cross-country analysis of agricultural production. American Journal of Agricultural Economics, 52(2), 327-329. <br/>
 Jradi, S., Parmeter, C. F., & Ruggiero, J. (2019). Quantile estimation of the stochastic frontier model. Economics Letters, 182, 15-18.</br>
 Patrignani, A., 2020. Pynotes. Copyright Andres Patrignani 2020 — Licensed under CC BY-NC-SA </br>
-USDA NASS. (2019). NASS Quick Stat Database.
+USDA NASS. (2019). NASS Quick Stat Database. </br>
+PRISM Climate Group. (2010-2018). Oregon State University, http://prism.oregonstate.edu, created 4 Feb 2004. 
