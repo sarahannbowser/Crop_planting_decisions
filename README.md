@@ -20,5 +20,5 @@ Douglas, P. H. 1967. Comments on the Cobb-Douglas production function. In The th
 Hayami, Y. 1970. On the use of the Cobb-Douglas production function on the cross-country analysis of agricultural production. American Journal of Agricultural Economics, 52(2), 327-329. <br/>
 Jradi, S., Parmeter, C. F., & Ruggiero, J. (2019). Quantile estimation of the stochastic frontier model. Economics Letters, 182, 15-18.</br>
 Patrignani, A., 2020. Pynotes. Copyright Andres Patrignani 2020 — Licensed under CC BY-NC-SA </br>
-USDA NASS. (2019). NASS Quick Stat Database. </br>
-PRISM Climate Group. (2010-2018). Oregon State University, http://prism.oregonstate.edu, created 4 Feb 2004. 
+USDA NASS. 2019. NASS Quick Stat Database. </br>
+PRISM Climate Group. 2010-2018. Oregon State University, http://prism.oregonstate.edu, created 4 Feb 2004. 
