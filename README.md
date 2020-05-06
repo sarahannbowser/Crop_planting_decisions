@@ -5,11 +5,11 @@ To study the yield response of sorghum and corn to precipitation and drought in 
 **Project area**: Analysis of yield response to precipitation in Kansas landscapes
 
 ## Objective
-Precipitation on the Great Southern Plains is highly variable from year to year. The management of available precipitation by farmers underpins the prosperity of the region. This effort evalutes the potential for yield efficiency of corn and sorghum in years of deficit moisture in the summer growing season. 
+Precipitation on the Great Southern Plains is highly variable from year to year. The management of available precipitation by farmers underpins the prosperity of the region. This effort evaluates the potential for yield efficiency of corn and sorghum in years of deficit moisture in the summer growing season. 
 ![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Interannual_variability.png)
 
 ## Outcome
-The efficiency curves for dryland yields of corn and sorghum illustrate the regional discrepancies in efficiency of water productivity, particularly in years of deficit water supply. The curves equally convey a need for management schemes that align availability of water supply during the growing season. 
+The efficiency curves for dryland yields of corn and sorghum illustrate the regional discrepancies in efficiency of water productivity, particularly in years of deficit water supply. The curves equally convey a need for management schemes that align opportunities for yield responsiveness given the spectrum of potential availabilities of water supply. 
 
 ![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Frontier_Efficiency.png)
 
