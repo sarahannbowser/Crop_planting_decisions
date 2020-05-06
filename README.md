@@ -10,7 +10,7 @@ The objective is to evaluate the responsiveness of yields for corn adn
 ## Outcomes
 The outcomes will be two-fold. The first product will be the derived analysis of running, and fine-tuning the regression model (graphs, output anaylsis in csv, and if appropriate a map of results). The second product, will be the aligning data tools (equations, data storage and manipulation, and code) for use in future applications of exploring causal relationships between independent variables and the dependent variable of acres planted for a given crop. 
 
-![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/SW_NW_pcp_yields.png)
+![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Frontier_Efficiency.png)
 
 ## Rationale
 Knowledge of the driving determinates guiding farmer plantings presents insights to underpin strategies for investing in the advancement of mid-small range crops. Illustrated in Figure 1. is the rapid decline of diversity in cropping mix for Kansas cropping systems. This trend begs the question of what can be done to incent an increase in the diversity of the types of crops grown by farmers in Kansas. 
