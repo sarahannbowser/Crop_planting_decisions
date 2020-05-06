@@ -2,10 +2,11 @@
 To study the yield response of sorghum and corn to precipitation and drought in the NW and SW Kansas crop districts.  <br/>
 **Name**: Sarah Sexton-Bowser <br/>
 **Date**: May 2020 <br/>
-**Project area**: Analysis of cropping trends in Kansas landscapes
+**Project area**: Analysis of yield response to precipitation in Kansas landscapes
 
 ## Objective
-The objective is to evaluate the responsiveness of yields for corn adn 
+Precipitation on the Plains, particularly the Great Southern Plains is highly variable from year to year. The management of available precipitation by farmers underpins the productivity and prosperity of the region. 
+![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Interannual_variability.png)
 
 ## Outcomes
 The outcomes will be two-fold. The first product will be the derived analysis of running, and fine-tuning the regression model (graphs, output anaylsis in csv, and if appropriate a map of results). The second product, will be the aligning data tools (equations, data storage and manipulation, and code) for use in future applications of exploring causal relationships between independent variables and the dependent variable of acres planted for a given crop. 
