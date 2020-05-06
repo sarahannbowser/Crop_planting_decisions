@@ -10,6 +10,7 @@ Precipitation on the Great Southern Plains is highly variable from year to year.
 
 ## Outcome
 The efficiency curves for dryland yields of corn and sorghum illustrate the regional discrepancies in efficiency of water productivity, particularly in years of deficit water supply. The curves equally convey a need for management schemes that align availability of water supply during the growing season. 
+
 ![alt text](https://github.com/sarahannbowser/water_productivity/blob/master/figures/Frontier_Efficiency.png)
 
 ## Method ##
